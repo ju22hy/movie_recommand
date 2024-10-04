@@ -1,0 +1,6 @@
+numpy>=1.26.4
+pandas>=2.2.2
+scikit-learn>=1.5.1
+scipy>=1.14.1
+# implicit>=0.7.2 # << conda를 설치한 이유
+implicit==0.7.1 # << 깃허브 cl/cd 설치가 안 돼서 버전 낮춤
